@@ -1,0 +1,7 @@
+{
+  "name": "test_adhivasindo-kanban",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
